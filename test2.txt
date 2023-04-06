@@ -1,2 +1,3 @@
 I am adding first line to test 2 files
 okay now i am adding text to test2.txt form remote repo
+now iam adding text to file 2 from feature branch and pushing to remote featture and will merge to main in remote
