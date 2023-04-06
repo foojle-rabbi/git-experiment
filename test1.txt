@@ -1,1 +1,2 @@
 am adding first line to test1.txt
+okay after first pushing to remote repo iam addding second line to testt 1
