@@ -1,1 +1,2 @@
 I am adding first line to test 2 files
+okay now i am adding text to test2.txt form remote repo
